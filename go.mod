@@ -1,4 +1,4 @@
-module github.com/letsencrypt/unbound_exporter
+module github.com/wblew/unbound_exporter
 
 go 1.21
 
